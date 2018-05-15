@@ -1,0 +1,15 @@
+*{
+    margin:0;
+    /* body -8px */
+    text-decoration: none;/*a的下划线 */
+    /* 字体回复默认值 */
+    font-style: normal;
+    padding: 0;/* 标题 */
+    list-style: none;/* 列表 */
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    /* 盒子大小的计算 */
+    box-sizing: border-box;
+}
+a{
+    color: #000;
+}
